@@ -85,7 +85,7 @@ bergetar di ujung gerakan, kecilkan batas `BAHU_MAKS` / `SIKU_MAKS`.
 
 - ESP32Servo 3.2.1 — sudah disertakan di [libraries/ESP32Servo.zip](libraries/ESP32Servo.zip).
   JANGAN pakai ESP32Servo 3.0.1 — gagal compile di ESP32 core 4.x.
-  Cara install: di Arduino IDE, Sketch > Include Library >
+  Cara install: di Arduino IDE, Sketch → Include Library →
   Add .ZIP Library, lalu pilih file ZIP di atas.
 
 ## Compile
