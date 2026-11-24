@@ -7,7 +7,7 @@ gripper (jepit). Dorong stik sedikit, lengan langsung mengikuti — tanpa
 mengetik perintah, tanpa tombol yang ribet.
 
 Video penjelasan (60 detik):
-link menyusul setelah upload
+https://youtube.com/shorts/2QIb3UuYNfg
 
 ## Komponen
 
